@@ -1,0 +1,10 @@
+EXPLAIN WHAT A TERMINAL IS IN YOUR OWN WORDS
+-The terminal is a command line program manipulate your operating system through the back door as opposed to surface manipulation
+
+WHAT IS THE DIFFERENCE BETWEEN GIT AND GITHUB?
+-
+-GitHub is the hive that stores all of your code and used for version control
+-Git is a program extension that you used for source code management. 
+
+WHY DO WE USE GITHUB?
+-We use Github to collaborate with our team and as stated above version control.
